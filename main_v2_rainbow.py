@@ -4,7 +4,7 @@ import time
 import colorsys
 
 # --- Config ---
-ASCII_CHARS = "`.-':_,^=;><+!rc*/z?sLTv)J7(|Fi{C}fI31tlu[neoZ5Yxjya]2ESwqkP6h9d4VpOGbUAKXHm8RD#$Bg0MNWQ%&@"
+ASCII_CHARS = "010101"
 
 def get_terminal_size():
     try:
